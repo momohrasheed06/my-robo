@@ -1,0 +1,261 @@
+#main-header {
+    text-align: center;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.15cm;
+}
+#enter {
+    text-align: center;
+}
+input {
+    border: 1px solid purple;
+    font-size: 16px;
+    text-align: left;
+    padding: 15px;
+}
+.borda {
+    border: 1px solid white;
+    height: 700px;
+    margin-top: 20px;
+    margin-left: -7px;
+    margin-right: -5px;
+    padding-bottom: 255px;
+    overflow-y: scroll;
+    display: flex;
+}
+.bordia {
+    border: none;
+    height: 200%;
+    width: 1200px;
+    margin-left: 70px;
+    }
+    
+body {
+    background-image: url(nitti.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+.borda1 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 150px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.borda1:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+
+.firstrow {
+    display: flex;
+    
+}
+.borda1 p {
+    color: #383838;
+    font-size: 17px;
+}
+
+.borda2 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda2:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+.secondrow {
+    display: flex;
+}
+.borda2 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda3 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda3:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+.thirdrow {
+    display: flex;
+    justify-content: center;
+
+}
+.borda3 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda4 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 150px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda4:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+.fouthrow {
+    display: flex;  
+    justify-content: center;
+}
+.borda4 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda5 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda5:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+.borda5 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda6 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda6 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda6:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+.borda7 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda7 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda7:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+.borda8 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda8:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+.borda8 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda9 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda9 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda9:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+.borda10 {
+    border: 1px solid red;
+    height: 465px;
+    width: 25%;
+    margin-top: 8px;
+    margin-left: 18px;
+    background-color: white;
+    border: none;
+    border-radius: 2%;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.borda10 p {
+    color: #383838;
+    font-size: 17px;
+}
+.borda10:hover {
+    transform: scale(1.06);
+    cursor: pointer;
+}
+img {
+    height: 250px;    
+}

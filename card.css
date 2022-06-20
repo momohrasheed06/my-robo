@@ -1,0 +1,101 @@
+/* standard css boss model */
+body {
+    font-family: sans-serif;
+    background-color: whitesmoke;
+}
+/* profile */
+.box {
+    width: 350px;
+    margin: 85px auto;
+    padding: 35px;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 15px 1px grey;
+    text-align: center;
+}
+.box img {
+    width: 100px;
+    /* border-radius: 100px; */
+    border: 2px solid red;
+    /* border-color: red black red; */
+    margin-bottom: 0;
+    padding: 3px;
+}
+.profile {
+    text-align: center;
+    margin-top: 0;
+    padding: 1px;
+    width: 80%;
+    margin: 3px auto;
+}
+figcaption h2,
+figcaption h5 {
+    margin: 0;
+    margin-top: 20px;
+    padding: 2px;
+    color: black;
+    font-family: sans-serif;
+}
+figcaption h5 {
+    color: red;
+    margin-top: 0px;
+}
+/* main */
+.info {
+    text-align: center;
+    margin: 1px auto;
+    margin-top: 20px;
+    margin-left: 14px;
+    padding: 2px;
+    font-size: large;
+}
+/* social media */
+.social-media {
+    padding: 5px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.social-media a {
+    color: red;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 8px;
+}
+/* footer */
+footer h5 {
+    padding: 2px;
+    margin: 3px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: larger;
+    font-family: sans-serif;
+    color: red;
+}
+.skills {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+/* .info {
+    text-align: center;
+} */
+#s1 {
+    border: 1px solid red;
+    width: 60px;
+
+}
+#s2 {
+    border: 1px solid red;
+    width: 60px;
+}
+#s3 {
+    border: 1px solid red;
+    width: 60px;
+}
+#s4 {
+    border: 1px solid red;
+    width: 65px;
+}
